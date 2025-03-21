@@ -7,6 +7,9 @@ on:
         description: 'Version to release (leave empty to use package.json version)'
         required: false
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
