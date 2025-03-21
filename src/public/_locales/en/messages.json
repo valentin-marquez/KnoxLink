@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "KnoxLink"
+  },
+  "extDescription": {
+    "message": "KnoxLink is a browser extension that allows you to import mods from the Steam Workshop to KnoxKit."
+  },
+  "importWithKnoxKit": {
+    "message": "Import with KnoxKit"
+  }
+}

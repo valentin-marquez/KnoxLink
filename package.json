@@ -1,0 +1,50 @@
+{
+  "name": "knoxlink",
+  "description": "KnoxLink helps you import mods from Steam Workshop directly to KnoxKit for Project Zomboid",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "author": "valeriko777",
+  "homepage": "https://github.com/valeriko777/knoxlink",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valeriko777/knoxlink.git"
+  },
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox",
+    "dev:edge": "wxt -b edge",
+    "build": "wxt build",
+    "build:firefox": "wxt build -b firefox",
+    "build:edge": "wxt build -b edge",
+    "zip": "wxt zip",
+    "zip:firefox": "wxt zip -b firefox",
+    "zip:edge": "wxt zip -b edge",
+    "compile": "tsc --noEmit",
+    "postinstall": "wxt prepare"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.15",
+    "clsx": "^2.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss": "^4.0.15"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.280",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "@wxt-dev/module-react": "^1.1.2",
+    "typescript": "^5.6.3",
+    "wxt": "^0.19.29"
+  },
+  "keywords": [
+    "browser-extension",
+    "project-zomboid",
+    "knoxkit",
+    "steam-workshop",
+    "mod-manager"
+  ],
+  "license": "MIT"
+}

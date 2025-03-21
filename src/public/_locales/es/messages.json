@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "KnoxLink"
+  },
+  "extDescription": {
+    "message": "KnoxLink es una extensión de navegador que te permite importar mods del Taller de Steam a KnoxKit."
+  },
+  "importWithKnoxKit": {
+    "message": "Importar con KnoxKit"
+  }
+}
