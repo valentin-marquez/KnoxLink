@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    <a href="https://chrome.google.com/webstore/detail/knoxlink/[extension-id]">
+    <a href="https://chrome.google.com/webstore/detail/knoxlink/fopkfokkcmmhgjjdlbjjmdgkffddjbpm">
       <img src="https://img.shields.io/badge/Chrome-Extension-green" alt="Chrome Extension">
     </a>
     <a href="https://addons.mozilla.org/es-ES/firefox/addon/knoxlink/">
@@ -37,7 +37,7 @@ KnoxLink is a browser extension that seamlessly connects the Steam Workshop with
 ## 🔧 Installation
 
 ### Chrome / Edge / Brave (and other Chromium browsers)
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/knoxlink/[extension-id])
+1. Visit the [Chrome Web Store](https://chrome.google.com/webstore/detail/knoxlink/fopkfokkcmmhgjjdlbjjmdgkffddjbpm)
 2. Click "Add to Chrome"
 3. Confirm the installation when prompted
 
